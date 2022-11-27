@@ -1,5 +1,7 @@
 ### Hi there 👋
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=radical)
+</div>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
 <br><br>
