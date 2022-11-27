@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
-
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=radical)
 
 <!--
 **jjinwo0/jjinwo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
