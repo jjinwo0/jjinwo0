@@ -3,10 +3,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
 <br><br>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  	<img src="https://img.shields.io/badge/JavaScript-?style=flat&logo=JavaScript&logoColor=white" />
-</div>
 <!--
 **jjinwo0/jjinwo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
