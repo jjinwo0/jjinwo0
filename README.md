@@ -1,8 +1,14 @@
 ### Hi there 👋
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
-
+</div>
+<br><br>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+</div>
 <!--
 **jjinwo0/jjinwo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
