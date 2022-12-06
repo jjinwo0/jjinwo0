@@ -16,9 +16,8 @@
 	
 <div align="center">
 	<h2>👀My Tools👀</h2>
-	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 </div>
 	
 </div>
