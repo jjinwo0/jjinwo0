@@ -15,7 +15,7 @@
 </div>
 	
 <div align="center">
-	<h2>👀My Tools👀</h2>
+	<h2>💻My Tools💻</h2>
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 </div>
