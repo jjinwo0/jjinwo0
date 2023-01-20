@@ -1,7 +1,7 @@
 
 <div align="center">
 	
-### 반갑스무디 👋
+###👋
 	
 ![jjinwo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=highcontrast)
 <br>
