@@ -15,6 +15,12 @@
 </div>
 	
 <div align="center">
+	<h2>✏️Learning✏️</h2>
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white" />
+</div>
+	
+<div align="center">
 	<h2>💻My Tools💻</h2>
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
