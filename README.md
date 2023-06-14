@@ -30,7 +30,7 @@
 	
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **jjinwo0/jjinwo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
