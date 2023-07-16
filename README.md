@@ -2,11 +2,7 @@
 <div align="center">
 	
 ###   👋
-	
-![jjinwo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=highcontrast)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
-<br><br>
+
 <div align="center">
 	<h2>👀My Tech👀</h2>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
@@ -30,7 +26,18 @@
 	
 </div>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<br>
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjinwo0&layout=compact)](https://github.com/jjinwo0/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+![jjinwo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinwo0&show_icons=true&theme=highcontrast)
+ 
+</div>
 
 <!--
 **jjinwo0/jjinwo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
