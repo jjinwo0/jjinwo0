@@ -20,7 +20,7 @@
 	<h2>📚 Education</h2>
 </div>
 
-- DongyangMirae University (2018.03 ~ 2024.02)
+- DongyangMirae University - Computer Software Engineering (2018.03 ~ 2024.02)
 - SSAFY 11th (2024.01 ~ )
 <br><br>
 <div>
