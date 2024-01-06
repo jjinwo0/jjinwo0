@@ -1,29 +1,36 @@
 
-<div align="center">
+<div>
 	
 ##   👋 Hi, I'm constantly step up to become a backend developer.
-
-<div align="center">
-	<h2>👀My Tech👀</h2>
+<br>
+<div>
+	<h2>👀 My Tech</h2>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
-	
-<div align="center">
-	<h2>💻My Tools💻</h2>
+<br><br>
+<div>
+	<h2>💻 My Tools</h2>
 	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 </div>
-	
-<div align="center">
-	<h2>💌Notion & Mail💌</h2>
+<br><br>
+<div>
+	<h2>📚 Education</h2>
+</div>
+
+- DongyangMirae University (2018.03 ~ 2024.02)
+- SSAFY 11th (2024.01 ~ )
+<br><br>
+<div>
+	<h2>✉️ Notion & Mail</h2>
 	<a href="https://spectacular-speedwell-eac.notion.site/for-Back-End-db10224d26b94ea796035c3cb4bec883">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<img src="https://img.shields.io/badge/zvzv9808@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </div>
-	
+<br><br>
 </div>
 
 <br>
