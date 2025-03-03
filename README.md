@@ -21,7 +21,7 @@
 </div>
 
 - DongyangMirae University - Computer Software Engineering (2018.03 ~ 2024.02)
-- SSAFY 11th (2024.01 ~ )
+- SSAFY 11th (2024.01 ~ 2024.10)
 <br><br>
 <div>
 	<h2>✉️ Notion & Mail</h2>
