@@ -11,17 +11,18 @@
 </div>
 <br><br>
 <div>
-	<h2>💻 My Tools</h2>
-	<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
-</div>
-<br><br>
-<div>
 	<h2>📚 Education</h2>
 </div>
 
 - DongyangMirae University - Computer Software Engineering (2018.03 ~ 2024.02)
 - SSAFY 11th (2024.01 ~ 2024.10)
+<br><br>
+<div>
+	<h2>💻 Career</h2>
+</div>
+
+- <a href="https://www.goyoai.com/ko/gointern"><strong>Goyo AI</strong></a> 서비스개발팀 Backend Developer (2024.10 ~ 2025.12)
+- <a href="https://www.ticketbay.co.kr/"><strong>TimPlus</strong></a> SRE Team Backend Developer (2026.01 ~ )
 <br><br>
 <div>
 	<h2>✉️ Notion & Mail</h2>
