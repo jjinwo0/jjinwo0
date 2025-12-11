@@ -22,7 +22,7 @@
 </div>
 
 - <a href="https://www.goyoai.com/ko/gointern"><strong>Goyo AI</strong></a> 서비스개발팀 Backend Developer (2024.10 ~ 2025.12)
-- <a href="https://www.ticketbay.co.kr/"><strong>TimPlus</strong></a> SRE Team Backend Developer (2026.01 ~ )
+- <a href="https://www.ticketbay.co.kr/"><strong>TimPlus</strong></a> SRE Team Backend Engineer (2026.01 ~ )
 <br><br>
 <div>
 	<h2>✉️ Notion & Mail</h2>
