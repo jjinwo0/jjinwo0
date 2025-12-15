@@ -14,8 +14,9 @@
 	<h2>📚 Education</h2>
 </div>
 
-- DongyangMirae University - Computer Software Engineering (2018.03 ~ 2024.02)
-- SSAFY 11th (2024.01 ~ 2024.10)
+- <strong>DongyangMirae University - Computer Software Engineering</strong> (2018.03 ~ 2024.02)
+- <strong>SSAFY 11th</strong> (2024.01 ~ 2024.10)
+- <a href="https://tosspublic.notion.site/learner-s-high-2"><strong>Toss Learner's High 2기</strong></a> (2025.12 ~ 2026.01)
 <br><br>
 <div>
 	<h2>💻 Career</h2>
